@@ -35,6 +35,7 @@ After a little bit of soldering...
 5 total versions. Not so bad
 
 ## Final result
+better pics tomorrow
 ![20230224_200628](https://user-images.githubusercontent.com/102923486/221269548-91aa75fb-f8aa-48b4-a263-8a5369e74c06.jpg)
 
 ### This keyboard can be used as few buttons in one, for me two works the best, or as fancy potentiometer.
