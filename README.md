@@ -25,6 +25,7 @@ First design, not so bad but without screen
 ![3](https://user-images.githubusercontent.com/102923486/221259046-99cba833-7e16-4d67-84dc-0e1f14d3eec8.jpg)
 ![20230224_160005](https://user-images.githubusercontent.com/102923486/221259143-b04add88-e8d4-4a1d-a3ae-11ce29a04e66.jpg)
 ![20230224_174230](https://user-images.githubusercontent.com/102923486/221259154-b6fd54a9-3d8e-4de8-874e-843f56bc9dc2.jpg)
+![20230224_183914](https://user-images.githubusercontent.com/102923486/221270931-dedf6632-f927-4d6c-a8fd-8e864a3e2931.jpg)
 ![20230224_183917](https://user-images.githubusercontent.com/102923486/221259221-ac30d287-d59d-48c5-a3be-0ab0afd70e91.jpg)
 
 After a little bit of soldering...
